@@ -7,13 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagementModel", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Web", "EmployeeManagement.Web\EmployeeManagement.Web.csproj", "{D9C2A513-A51B-4188-9107-00A1600B97E5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeManagement.Api", "EmployeeManagement.Api\EmployeeManagement.Api.csproj", "{90C9385F-93CF-4D42-BE4F-42C6A1170F89}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{54B192B8-52DF-4626-A4C8-3294BB2E106F}"
-	ProjectSection(SolutionItems) = preProject
-		.editorconfig = .editorconfig
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,10 +21,6 @@ Global
 		{D9C2A513-A51B-4188-9107-00A1600B97E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9C2A513-A51B-4188-9107-00A1600B97E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9C2A513-A51B-4188-9107-00A1600B97E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{90C9385F-93CF-4D42-BE4F-42C6A1170F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{90C9385F-93CF-4D42-BE4F-42C6A1170F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{90C9385F-93CF-4D42-BE4F-42C6A1170F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{90C9385F-93CF-4D42-BE4F-42C6A1170F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
